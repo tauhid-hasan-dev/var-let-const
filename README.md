@@ -6,17 +6,17 @@
 
 <h1 align="center">Scopes in Javascript</h1>
 <h2 align="center">Global Scope</h2>
-* Global scoped variables can be accessed from anywhere down in the file. <br>
-* Be carefull it can not be accessed from up where the variable has been declared
+- Global scoped variables can be accessed from anywhere down in the file. <br>
+- Be carefull it can not be accessed from up where the variable has been declared.
 
 <h2 align="center">Local Scope</h2>
--Function scope 
--Block scope
+-Function scope <br>
+-Block scope <br>
 <h3 align="left">Function Scope</h3>
--anything inside a function
--var is a function scope means it can be accessed from anywhere inside the function even variable declared inside a block
-* <h3 align="left">Block Scope</h3>
-* anything inside a curly braces {} . block can be a if statement or loop or switch statement.
-* let and const are block scoped.
+-anything inside a function <br>
+-var is a function scope means it can be accessed from anywhere inside the function even variable declared inside a block 
+<h3 align="left">Block Scope</h3>
+- anything inside a curly braces {} . block can be a if statement or loop or switch statement.<br>
+- let and const are block scoped.
 
 
