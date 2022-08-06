@@ -6,7 +6,7 @@
 
 <h1 align="center">Scopes in Javascript</h1>
 <h2 align="center">Global Scope</h2>
-* Global scoped variables can be accessed from anywhere down in the file.
+* Global scoped variables can be accessed from anywhere down in the file. <br>
 * Be carefull it can not be accessed from up where the variable has been declared
 
 <h2 align="center">Local Scope</h2>
