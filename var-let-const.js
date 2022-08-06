@@ -39,7 +39,7 @@ functionScope();
 /*================== SUMMERY =====================*/
 
 /* inside a funtion scope
-var is a function scoped
+var is a function scoped    
 let and const is a block scoped */
 
 //global scope
