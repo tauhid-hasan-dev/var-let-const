@@ -3,9 +3,20 @@
 <h3 align="left">2- let and const are block scoped</h3>
 <h3 align="left">3- use const if you are not going to change the value</h3>
 <h3 align="left">4- use let if you want to change the value later</h3>
-<h3 align="left">======================================================</h3>
+
 <h1 align="center">Scopes in Javascript</h1>
 <h2 align="left">Global Scope</h2>
 * Global scoped variables can be accessed from anywhere down in the file.
+* Be carefull it can not be accessed from up where the variable has been declared
+
+<h2 align="left">Local Scope</h2>
+* Function scope 
+* Block scope
+<h3 align="left">Function Scope</h3>
+* anything inside a function
+* var is a function scope means it can be accessed from anywhere inside the function even variable declared inside a block
+* <h3 align="left">Block Scope</h3>
+* anything inside a curly braces {} . block can be a if statement or loop or switch statement.
+* let and const are block scoped.
 
 
