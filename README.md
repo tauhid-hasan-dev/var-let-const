@@ -10,11 +10,11 @@
 * Be carefull it can not be accessed from up where the variable has been declared
 
 <h2 align="center">Local Scope</h2>
-* Function scope 
-* Block scope
+-Function scope 
+-Block scope
 <h3 align="left">Function Scope</h3>
-* anything inside a function
-* var is a function scope means it can be accessed from anywhere inside the function even variable declared inside a block
+-anything inside a function
+-var is a function scope means it can be accessed from anywhere inside the function even variable declared inside a block
 * <h3 align="left">Block Scope</h3>
 * anything inside a curly braces {} . block can be a if statement or loop or switch statement.
 * let and const are block scoped.
