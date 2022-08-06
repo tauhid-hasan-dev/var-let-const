@@ -5,11 +5,11 @@
 <h3 align="left">4- use let if you want to change the value later</h3>
 
 <h1 align="center">Scopes in Javascript</h1>
-<h2 align="left">Global Scope</h2>
+<h2 align="center">Global Scope</h2>
 * Global scoped variables can be accessed from anywhere down in the file.
 * Be carefull it can not be accessed from up where the variable has been declared
 
-<h2 align="left">Local Scope</h2>
+<h2 align="center">Local Scope</h2>
 * Function scope 
 * Block scope
 <h3 align="left">Function Scope</h3>
