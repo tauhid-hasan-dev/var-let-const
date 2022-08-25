@@ -14,12 +14,12 @@
 -Block scope <br>
 <h3 align="left">Function Scope</h3>
 -anything inside a function <br>
--var is a function scope means it can be accessed from anywhere inside the function even variable declared inside a block 
+-var is a function scope means it can be accessed from anywhere inside the function even variable declared inside a block <br>
 - var, let or const declared inside the function , can not be accessed outside the function. 
 <h3 align="left">Block Scope</h3>
 - anything inside a curly braces {} . block can be a if statement or loop or switch statement.<br>
-- let and const are block scoped.
-- we can not access globally, variables declared by let and const inside a block (we can access variables if variable declared by var)
+- let and const are block scoped.<br>
+- variables declared by let and const inside a block , we can not access globally, (we can access variables if variable declared by var inside a block)
 
 
 
